@@ -60,7 +60,7 @@ export default function Home() {
             }}
             id="artist"
             name="artist"
-            placeholder="Artist"
+            placeholder="Artist (optional)"
           />
           <input
             className={styles.card}
