@@ -31,7 +31,7 @@ export default (req, res) => {
               res.redirect("/notfound");
             } else if (!data.body.tracks.items[0].explicit) {
               spotifyApi
-                .addTracksToPlaylist(process.env.SPOTIFY_REFRESH_PLAYLIST, [
+                .addTracksToPlaylist(process.env.SPOTIFY_PLAYLIST, [
                   data.body.tracks.items[0].uri,
                 ])
                 .then(
