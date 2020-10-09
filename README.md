@@ -2,7 +2,7 @@
 
 A little Next.js website to allow anyone add songs to a Spotify playlist.
 
-Want to make your own?
+**Want to make your own?**
 
 Epic! Fork this repo, change up the copy, deploy it to [Vercel](https://vercel.com) and then set the below environmental variables.
 
