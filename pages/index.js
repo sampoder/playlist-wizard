@@ -30,7 +30,11 @@ export default function Home() {
         </h1>
         <p style={{ fontSize: "1.5em" }}>
           Every day we'll be playing some epic tunes as school starts, add your
-          favourite songs to the playlist using this site! Listen to the full playlist.
+          favourite songs to the playlist using this site!{" "}
+          <a href="https://open.spotify.com/playlist/2ty0IlJI65OqUvx1COSZ4f?si=v9LLuir6Qbm4aWB8D9as2g">
+            Listen to the full playlist
+          </a>
+          .
         </p>
         <form action="/api/add">
           <input
@@ -77,7 +81,7 @@ export default function Home() {
         <p>
           Built by Sam Poder, please email{" "}
           <a href="mailto:23samuel.p@gwa.edu.sg">23samuel.p@gwa.edu.sg</a> for
-          support. Open sourced here.
+          support. Open sourced <a href="https://github.com/sampoder/playlist-wizard">here</a>.
         </p>
       </main>
     </div>
