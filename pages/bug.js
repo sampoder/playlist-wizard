@@ -76,7 +76,7 @@ export default function Home() {
         <p>
           Built by Sam Poder, please email{" "}
           <a href="mailto:23samuel.p@gwa.edu.sg">23samuel.p@gwa.edu.sg</a> for
-          support. Open sourced here.
+          support. Open sourced <a href="https://github.com/sampoder/playlist-wizard">here</a>.
         </p>
       </main>
     </div>
