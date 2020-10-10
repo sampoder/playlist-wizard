@@ -1,6 +1,6 @@
 # 🎶 Playlist Wizard
 
-A little Next.js website to allow anyone add songs to a Spotify playlist.
+A little Next.js website to allow anyone to add songs to a Spotify playlist.
 
 **Want to make your own?**
 
