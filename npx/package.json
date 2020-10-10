@@ -1,6 +1,6 @@
 {
-  "name": "gwas-playlist-wizard-cli",
-  "version": "1.0.1",
+  "name": "gwas-add-songs",
+  "version": "1.0.2",
   "description": "CLI to add songs to the GWA Singapore's Student Council playlist.",
   "main": "index.js",
   "scripts": {
