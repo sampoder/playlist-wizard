@@ -1,0 +1,6 @@
+{
+  "notfound": "\nSorry, we couldn't find that song. Try again?",
+  "rejected": "\nSorry, we couldn't add the song because our filters detected the song as being explicit and not suitable for school.",
+  "success": "\nHooray! The song has been added!",
+  "bug": "\nWe've had a glitch. Please try again."
+}
